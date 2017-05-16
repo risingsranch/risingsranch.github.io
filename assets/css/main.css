@@ -3730,10 +3730,10 @@
 			-webkit-transform: scale(1.0);
 			-ms-transform: scale(1.0);
 			transform: scale(1.0);
-			-moz-transition: opacity 1s ease, -moz-transform 1s ease;
-			-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
-			-ms-transition: opacity 1s ease, -ms-transform 1s ease;
-			transition: opacity 1s ease, transform 1s ease;
+			-moz-transition: opacity 0.75s ease, -moz-transform 0.75s ease;
+			-webkit-transition: opacity 1s ease, -webkit-transform 0.75s ease;
+			-ms-transition: opacity 0.75s ease, -ms-transform 0.75s ease;
+			transition: opacity 0.75s ease, transform 0.75s ease;
 			opacity: 1;
 			position: relative;
 			z-index: 2;
@@ -3791,10 +3791,10 @@
 	}
 
 		#banner:before {
-			-moz-transition: opacity 3s ease;
-			-webkit-transition: opacity 3s ease;
-			-ms-transition: opacity 3s ease;
-			transition: opacity 3s ease;
+			-moz-transition: opacity 1s ease;
+			-webkit-transition: opacity 1s ease;
+			-ms-transition: opacity 1s ease;
+			transition: opacity 1s ease;
 			-moz-transition-delay: 1.25s;
 			-webkit-transition-delay: 1.25s;
 			-ms-transition-delay: 1.25s;
