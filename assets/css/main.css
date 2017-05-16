@@ -57,6 +57,14 @@
 		box-sizing: border-box;
 	}
 
+  .red-span span {
+    color: red;
+  }
+
+  .red-span {
+    color: #565454;
+  }
+
 /* Containers */
 
 	.container {
