@@ -2475,6 +2475,11 @@
 				width: 100%;
 			}
 
+      .image.center {
+        margin-right: auto;
+        margin-left: auto;
+      }
+
 		.image.left {
 			float: left;
 			margin: 0 1.5em 1em 0;

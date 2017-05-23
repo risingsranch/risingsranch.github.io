@@ -49,6 +49,9 @@
 		-webkit-text-size-adjust: none;
 	}
 
+  .tarantaise p {
+    font-size: 1.1rem;
+  }
 /* Box Model */
 
 	*, *:before, *:after {
