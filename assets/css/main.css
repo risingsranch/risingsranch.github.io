@@ -19,6 +19,10 @@
 		vertical-align: baseline;
 	}
 
+  p {
+    font-size: 1.2em;
+  }
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -3716,7 +3720,8 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/5047.jpeg");
+    opacity: 0.9;
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
