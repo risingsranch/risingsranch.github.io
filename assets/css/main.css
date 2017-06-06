@@ -19,6 +19,10 @@
 		vertical-align: baseline;
 	}
 
+  table {
+    color: black;
+  }
+
   p {
     font-size: 1.2em;
   }
@@ -1601,7 +1605,7 @@
 
 	body {
 		background-color: #fff;
-		color: #999999;
+		color: #FAFAFA;
 	}
 
 	body, input, select, textarea {
@@ -1977,7 +1981,7 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #3498db;
+		background-color: #0085A0;
 		color: #fff !important;
 	}
 
@@ -1986,7 +1990,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #4aa3df;
+			background-color: #0097A0;
 		}
 
 		input[type="submit"]:active,
@@ -2956,7 +2960,7 @@
 			.wrapper.style1 input[type="button"],
 			.wrapper.style1 button,
 			.wrapper.style1 .button {
-				background-color: #3498db;
+				background-color: #0085A0;
 				color: #fff !important;
 			}
 
@@ -2965,7 +2969,7 @@
 				.wrapper.style1 input[type="button"]:hover,
 				.wrapper.style1 button:hover,
 				.wrapper.style1 .button:hover {
-					background-color: #4aa3df;
+					background-color: #0097A0;
 				}
 
 				.wrapper.style1 input[type="submit"]:active,
@@ -3122,7 +3126,7 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #3498db;
+			background-color: #0085A0;
 			color: #aed6f1;
 		}
 
@@ -3446,7 +3450,7 @@
 			}
 
 				#header > .logo a:hover {
-					color: #3498db;
+					color: #FFFFFF;
 				}
 
 			#header > .logo span {
@@ -3468,7 +3472,7 @@
 		}
 
 			#header > a:hover {
-				color: #3498db;
+				color: #FFFFFF;
 			}
 
 			#header > a[href="#menu"] {
@@ -3585,7 +3589,7 @@
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: rgba(0, 0, 0, 0.925);
+		background: rgba(0, 133, 160, 0.925);
 		box-shadow: none;
 		color: #fff;
 		height: 100%;
@@ -3628,7 +3632,7 @@
 					}
 
 					#menu > ul.links > li:hover {
-						color: #3498db;
+						color: #DDD;
 					}
 
 					#menu > ul.links > li:first-child > a:not(.button) {
